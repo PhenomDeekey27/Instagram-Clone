@@ -1,0 +1,48 @@
+.post
+{
+    width: 550px;
+    margin: 30px 40px 50px 40px;
+   
+}
+.post-header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 10px;
+
+}
+.postAuth-head
+{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+}
+.postAuth-head > span
+{
+    color: grey;
+    font-size: 15px;
+}
+.post-image img
+{
+    width:100%;
+    border: 0.6px solid rgba(128, 128, 128, 0.6);
+    border-radius: 6px;
+}
+.pfooter-icons
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.posticon
+{
+    padding: 7px;
+    font-size: 25px ;
+}
+.posticon:hover
+{
+    cursor: pointer;
+}

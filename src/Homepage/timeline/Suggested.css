@@ -1,0 +1,64 @@
+.suggestions
+{
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+.suggestions-title
+{
+    color: gainsboro;
+    font-weight: bolder;
+}
+.username-left
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.username-info
+{
+    display: flex;
+    flex-direction: column;
+
+}
+.relation
+{
+    color: grey;
+    font-size: 12px;
+}
+.suggest-name
+{
+    display: flex;
+   
+    justify-content: space-between;
+    width: 300px;
+    margin: 15px;
+}
+.follow-button
+{
+   
+    color: white;
+
+    background: #0095f6;
+    border: 0;
+    padding: 12px;
+    display: block;
+    height: 45px;
+   
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.follow-button:hover
+{
+    cursor: pointer;
+
+}
+.s-username
+{
+    font-weight: 600;
+    font-size: 14px;
+}
+.avatar
+{
+    margin-right: 10px;
+}
